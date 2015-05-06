@@ -1,0 +1,1 @@
+'fresh','tuna','sushi','items','asian', 'rice', 'fish', 'shrimp', 'roll', 'tempura', 'soup', 'spicy', 'ramsay', 'thai'
