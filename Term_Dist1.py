@@ -3,7 +3,7 @@
 
 # In[1]:
 
-#Getting the data
+#Getting the data (Size: 1GB)
 import json
 import pandas as pd
 data1 = []
